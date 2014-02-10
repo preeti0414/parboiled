@@ -4,6 +4,7 @@ import org.scalatest.testng.TestNGWrapperSuite;
 
 import java.io.File;
 import java.io.IOException;
+import java.lang.*
 
 import static scala.collection.JavaConversions.collectionAsScalaIterable;
 
